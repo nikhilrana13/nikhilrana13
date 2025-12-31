@@ -1,16 +1,23 @@
-## Hi there 👋
+💫 About Me:
+💻 MERN Stack Developer | Frontend-focused
+🚀 Building real-world web apps using React.js & Node.js
+🌱 Currently learning Next.js & DevOps basics
+🤝 Open to internships, freelance & collaboration opportunities
+💬 Ask me about React, JavaScript, MERN stack
+⚡ Fun fact: I love turning UI designs into clean, responsive code
 
-<!--
-**nikhilrana13/nikhilrana13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+JavaScript HTML5 CSS3 Firebase Render Vercel Netlify Context-API Express.js Nodemon NodeJS Next JS NPM React React Router React Hook Form Redux Vite TailwindCSS Firebase MongoDB Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
