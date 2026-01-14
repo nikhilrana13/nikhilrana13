@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 MERN Stack Developer <br>🚀 Building real-world web apps using React.js & Node.js<br>🌱 Currently learning Next.js <br>🤝 Open to internships, freelance & collaboration opportunities<br>💬 Ask me about React, JavaScript, MERN stack<br>⚡ Fun fact: I love turning UI designs into clean, responsive code
+💻 MERN Stack Developer <br>🚀 Building real-world web apps using React.js & Node.js<br>🌱 <br>🤝 Open to internships, freelance & collaboration opportunities<br>💬 Ask me about React, JavaScript, MERN stack<br>⚡ Fun fact: I love turning UI designs into clean, responsive code
 
 
 ## 🌐 Socials:
